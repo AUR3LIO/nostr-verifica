@@ -1,12 +1,5 @@
 {
-  "names": {
-    "auretek": "4e8f51112cabf0d55e13e16aa32f6d6fcb0a8f5ff4f7b42cfbbdbe54bb754726"
-  },
-  "relays": {
-    "4e8f51112cabf0d55e13e16aa32f6d6fcb0a8f5ff4f7b42cfbbdbe54bb754726": [
-      "wss://nostr.wine",
-      "wss://nos.lol",
-      ...
-    ]
-  }
+    "names": {
+        "aurelio": "bb64053df850ca0375d1bc299658f008dc9de5eda1b668c6b9e36624d9ded0e3"
+    }
 }
